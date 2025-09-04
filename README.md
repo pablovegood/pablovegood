@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];Knock knock...+I'm Pablo..;..welcome to my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
 <!--
 **pablovegood/pablovegood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];Knock knock...+I'm Pablo..;..welcome to my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
+
