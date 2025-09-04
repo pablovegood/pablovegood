@@ -2,7 +2,14 @@
 
 <div align="center">
     <h2>🔭 About Me</h2>
-    <p>As far as I'm aware my name is Pablo and I graduated last year from a BSc in Computer Science specializing in software engineering at the University of Granada. The thing is that I didn't know what to study and chose that degree basically because I didn't know much about techy things and because I liked videogames. I ended up liking it a lot. Good for me!!
+    <p>As far as I'm aware my name is Pablo and I graduated last year from a BSc in Computer Science specializing in software engineering at the University of Granada. The thing is that I didn't know what to study and chose that degree basically because I didn't know much about techy things (and could discover a whole new world) and because I liked videogames. I ended up liking it a lot. Good for me!!
+</div>
+
+
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
 </div>
 
 <!--
