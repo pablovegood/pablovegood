@@ -6,9 +6,6 @@
 </div>
 
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablovegood&theme=github_dark" alt="Pablo's GitHub Stats"/>
-</div>
 
 <!--
 **pablovegood/pablovegood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
