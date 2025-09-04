@@ -1,8 +1,4 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Knock, knock..+I'm+Pablo;Welcome+to..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Knock%2C+knock...;Welcome+to...;...my+GitHub+page)](https://git.io/typing-svg)
 
 <!--
 **pablovegood/pablovegood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
