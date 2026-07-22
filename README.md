@@ -56,7 +56,7 @@ I got into this field through videogames, and that curiosity turned into a real 
 
 ## 🗣️ Languages
 
-🇪🇸 Spanish (native) · 🇬🇧 English (C2) · 🇮🇹 Italian (B2) · 🇫🇷 French (B2) · 🇩🇪 German (actively learning toward A2)
+🇪🇸 Spanish (native) · 🇬🇧 English (C2 Cambridge) · 🇮🇹 Italian (B2 PLIDA) · 🇫🇷 French (B2 DELF) · 🇩🇪 German (A2 Goethe)
 
 > Erasmus experience in Milan 🇮🇹 — comfortable working in international, multilingual teams.
 
